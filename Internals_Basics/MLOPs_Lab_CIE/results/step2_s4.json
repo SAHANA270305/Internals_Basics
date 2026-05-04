@@ -1,0 +1,16 @@
+{
+  "health_endpoint": "/health",
+  "predict_endpoint": "/forecast",
+  "port": 8500,
+  "health_response": {
+    "status": "healthy",
+    "model_loaded": true
+  },
+  "test_input": {
+    "rainfall_mm": 839.7,
+    "fertilizer_kg": 203.1,
+    "field_hectares": 11.4,
+    "soil_quality": 3
+  },
+  "prediction": 13.442934
+}

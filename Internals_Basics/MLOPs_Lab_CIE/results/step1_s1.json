@@ -1,0 +1,22 @@
+{
+  "experiment_name": "agriyield-yield-tons",
+  "models": [
+    {
+      "name": "Ridge",
+      "mae": 0.789069,
+      "rmse": 1.074397,
+      "r2": 0.796817,
+      "mape": 6.682819
+    },
+    {
+      "name": "RandomForest",
+      "mae": 1.5271,
+      "rmse": 1.606699,
+      "r2": 0.545612,
+      "mape": 13.640924
+    }
+  ],
+  "best_model": "Ridge",
+  "best_metric_name": "mae",
+  "best_metric_value": 0.789069
+}

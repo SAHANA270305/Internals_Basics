@@ -1,0 +1,7 @@
+{
+  "registered_model_name": "agriyield-yield-tons-predictor",
+  "version": 1,
+  "run_id": "00337416927f4cdf8dbac8c48640a840",
+  "source_metric": "mae",
+  "source_metric_value": 0.789069
+}
